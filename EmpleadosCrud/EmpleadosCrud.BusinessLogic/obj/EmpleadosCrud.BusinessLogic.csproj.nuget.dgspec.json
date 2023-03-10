@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Chris\\source\\repos\\EmpleadosCrud\\EmpleadosCrud.BusinessLogic\\EmpleadosCrud.BusinessLogic.csproj": {}
+    "C:\\Users\\Chris\\Documents\\GitHub\\TareaCrudAsp.NetCore\\EmpleadosCrud\\EmpleadosCrud.BusinessLogic\\EmpleadosCrud.BusinessLogic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Chris\\source\\repos\\EmpleadosCrud\\EmpleadosCrud.BusinessLogic\\EmpleadosCrud.BusinessLogic.csproj": {
+    "C:\\Users\\Chris\\Documents\\GitHub\\TareaCrudAsp.NetCore\\EmpleadosCrud\\EmpleadosCrud.BusinessLogic\\EmpleadosCrud.BusinessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Chris\\source\\repos\\EmpleadosCrud\\EmpleadosCrud.BusinessLogic\\EmpleadosCrud.BusinessLogic.csproj",
+        "projectUniqueName": "C:\\Users\\Chris\\Documents\\GitHub\\TareaCrudAsp.NetCore\\EmpleadosCrud\\EmpleadosCrud.BusinessLogic\\EmpleadosCrud.BusinessLogic.csproj",
         "projectName": "EmpleadosCrud.BusinessLogic",
-        "projectPath": "C:\\Users\\Chris\\source\\repos\\EmpleadosCrud\\EmpleadosCrud.BusinessLogic\\EmpleadosCrud.BusinessLogic.csproj",
+        "projectPath": "C:\\Users\\Chris\\Documents\\GitHub\\TareaCrudAsp.NetCore\\EmpleadosCrud\\EmpleadosCrud.BusinessLogic\\EmpleadosCrud.BusinessLogic.csproj",
         "packagesPath": "C:\\Users\\Chris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Chris\\source\\repos\\EmpleadosCrud\\EmpleadosCrud.BusinessLogic\\obj\\",
+        "outputPath": "C:\\Users\\Chris\\Documents\\GitHub\\TareaCrudAsp.NetCore\\EmpleadosCrud\\EmpleadosCrud.BusinessLogic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Chris\\source\\repos\\EmpleadosCrud\\EmpleadosCrud.DataAccess\\EmpleadosCrud.DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Chris\\source\\repos\\EmpleadosCrud\\EmpleadosCrud.DataAccess\\EmpleadosCrud.DataAccess.csproj"
+              "C:\\Users\\Chris\\Documents\\GitHub\\TareaCrudAsp.NetCore\\EmpleadosCrud\\EmpleadosCrud.DataAccess\\EmpleadosCrud.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Chris\\Documents\\GitHub\\TareaCrudAsp.NetCore\\EmpleadosCrud\\EmpleadosCrud.DataAccess\\EmpleadosCrud.DataAccess.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "C:\\Users\\Chris\\source\\repos\\EmpleadosCrud\\EmpleadosCrud.DataAccess\\EmpleadosCrud.DataAccess.csproj": {
+    "C:\\Users\\Chris\\Documents\\GitHub\\TareaCrudAsp.NetCore\\EmpleadosCrud\\EmpleadosCrud.DataAccess\\EmpleadosCrud.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Chris\\source\\repos\\EmpleadosCrud\\EmpleadosCrud.DataAccess\\EmpleadosCrud.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Chris\\Documents\\GitHub\\TareaCrudAsp.NetCore\\EmpleadosCrud\\EmpleadosCrud.DataAccess\\EmpleadosCrud.DataAccess.csproj",
         "projectName": "EmpleadosCrud.DataAccess",
-        "projectPath": "C:\\Users\\Chris\\source\\repos\\EmpleadosCrud\\EmpleadosCrud.DataAccess\\EmpleadosCrud.DataAccess.csproj",
+        "projectPath": "C:\\Users\\Chris\\Documents\\GitHub\\TareaCrudAsp.NetCore\\EmpleadosCrud\\EmpleadosCrud.DataAccess\\EmpleadosCrud.DataAccess.csproj",
         "packagesPath": "C:\\Users\\Chris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Chris\\source\\repos\\EmpleadosCrud\\EmpleadosCrud.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\Chris\\Documents\\GitHub\\TareaCrudAsp.NetCore\\EmpleadosCrud\\EmpleadosCrud.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -94,8 +94,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Chris\\source\\repos\\EmpleadosCrud\\EmpleadosCrud.Entities\\EmpleadosCrud.Entities.csproj": {
-                "projectPath": "C:\\Users\\Chris\\source\\repos\\EmpleadosCrud\\EmpleadosCrud.Entities\\EmpleadosCrud.Entities.csproj"
+              "C:\\Users\\Chris\\Documents\\GitHub\\TareaCrudAsp.NetCore\\EmpleadosCrud\\EmpleadosCrud.Entities\\EmpleadosCrud.Entities.csproj": {
+                "projectPath": "C:\\Users\\Chris\\Documents\\GitHub\\TareaCrudAsp.NetCore\\EmpleadosCrud\\EmpleadosCrud.Entities\\EmpleadosCrud.Entities.csproj"
               }
             }
           }
@@ -138,14 +138,14 @@
         }
       }
     },
-    "C:\\Users\\Chris\\source\\repos\\EmpleadosCrud\\EmpleadosCrud.Entities\\EmpleadosCrud.Entities.csproj": {
+    "C:\\Users\\Chris\\Documents\\GitHub\\TareaCrudAsp.NetCore\\EmpleadosCrud\\EmpleadosCrud.Entities\\EmpleadosCrud.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Chris\\source\\repos\\EmpleadosCrud\\EmpleadosCrud.Entities\\EmpleadosCrud.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Chris\\Documents\\GitHub\\TareaCrudAsp.NetCore\\EmpleadosCrud\\EmpleadosCrud.Entities\\EmpleadosCrud.Entities.csproj",
         "projectName": "EmpleadosCrud.Entities",
-        "projectPath": "C:\\Users\\Chris\\source\\repos\\EmpleadosCrud\\EmpleadosCrud.Entities\\EmpleadosCrud.Entities.csproj",
+        "projectPath": "C:\\Users\\Chris\\Documents\\GitHub\\TareaCrudAsp.NetCore\\EmpleadosCrud\\EmpleadosCrud.Entities\\EmpleadosCrud.Entities.csproj",
         "packagesPath": "C:\\Users\\Chris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Chris\\source\\repos\\EmpleadosCrud\\EmpleadosCrud.Entities\\obj\\",
+        "outputPath": "C:\\Users\\Chris\\Documents\\GitHub\\TareaCrudAsp.NetCore\\EmpleadosCrud\\EmpleadosCrud.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

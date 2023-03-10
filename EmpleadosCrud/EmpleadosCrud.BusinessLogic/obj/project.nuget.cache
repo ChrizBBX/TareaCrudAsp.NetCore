@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IKaNKkZXOmxveq3Tp4qyGViLkOEkUtPnGOzv6FottjvgLy5QsS2nZNLjqiimNiLt9C9IOC+Z541GO5ZFU5E8HA==",
+  "dgSpecHash": "l6NQ05D4uMAD1S/rF09VarV8/5mtCbFX0WRN6EkDTVigaVftAEyMw2ilaqXF+RckWBZGdJikfwAfWjHAFnyBFg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Chris\\source\\repos\\EmpleadosCrud\\EmpleadosCrud.BusinessLogic\\EmpleadosCrud.BusinessLogic.csproj",
+  "projectFilePath": "C:\\Users\\Chris\\Documents\\GitHub\\TareaCrudAsp.NetCore\\EmpleadosCrud\\EmpleadosCrud.BusinessLogic\\EmpleadosCrud.BusinessLogic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Chris\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Chris\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

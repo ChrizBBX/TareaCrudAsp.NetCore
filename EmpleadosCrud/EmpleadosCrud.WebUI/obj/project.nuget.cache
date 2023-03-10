@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sjD8UE2syl902ZeJrLR/9XP/BYmlqchGH4Xi6AzZDlmdAr9Ouw+wAI7G/1OVzoSvK3BKZYlRp0cYgNurOLNodw==",
+  "dgSpecHash": "MiA1n0i5OzGeiIoG/JopXzTyQutSdvzfPXfkg3BUsSKufPNCcVIWylgyqein6BBEDJ06+6hZUv7nQBUpwvyFcw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Chris\\source\\repos\\EmpleadosCrud\\EmpleadosCrud.WebUI\\EmpleadosCrud.WebUI.csproj",
+  "projectFilePath": "C:\\Users\\Chris\\Documents\\GitHub\\TareaCrudAsp.NetCore\\EmpleadosCrud\\EmpleadosCrud.WebUI\\EmpleadosCrud.WebUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Chris\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Chris\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

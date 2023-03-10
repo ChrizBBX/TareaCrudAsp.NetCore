@@ -41,6 +41,17 @@ namespace EmpleadosCrud.DataAccess.Repository
             using var db = new TareacrudEmpleadoContext();
             return db.tbEmpleados.FirstOrDefault(e => e.empe_Id == id);
         }
+        public tbEmpleados GetByIdDelete(int id)
+        {
+            using var db = new TareacrudEmpleadoContext();
+            var empleado = db.tbEmpleados.FirstOrDefault(e => e.empe_Id == id);
+            if (empleado != null)
+            {
+                db.Remove(empleado);
+                db.SaveChanges();
+            }
+            return db.tbEmpleados.FirstOrDefault(e => e.empe_Id == id);
+        }
 
         public int Update(tbEmpleados item)
         {

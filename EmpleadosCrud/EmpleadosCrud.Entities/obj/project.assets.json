@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Chris\\source\\repos\\EmpleadosCrud\\EmpleadosCrud.Entities\\EmpleadosCrud.Entities.csproj",
+      "projectUniqueName": "C:\\Users\\Chris\\Documents\\GitHub\\TareaCrudAsp.NetCore\\EmpleadosCrud\\EmpleadosCrud.Entities\\EmpleadosCrud.Entities.csproj",
       "projectName": "EmpleadosCrud.Entities",
-      "projectPath": "C:\\Users\\Chris\\source\\repos\\EmpleadosCrud\\EmpleadosCrud.Entities\\EmpleadosCrud.Entities.csproj",
+      "projectPath": "C:\\Users\\Chris\\Documents\\GitHub\\TareaCrudAsp.NetCore\\EmpleadosCrud\\EmpleadosCrud.Entities\\EmpleadosCrud.Entities.csproj",
       "packagesPath": "C:\\Users\\Chris\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Chris\\source\\repos\\EmpleadosCrud\\EmpleadosCrud.Entities\\obj\\",
+      "outputPath": "C:\\Users\\Chris\\Documents\\GitHub\\TareaCrudAsp.NetCore\\EmpleadosCrud\\EmpleadosCrud.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

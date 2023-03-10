@@ -107,5 +107,12 @@ namespace EmpleadosCrud.WebUI.Controllers
             return View(empleado);
         }
 
+        [HttpGet("/Empleados/Eliminar")]
+        public IActionResult Eliminar(int id)
+        {
+            var borrarEmpleado = _generalService.ObtenerEmpleadoPorIdDelete(id);
+            return RedirectToAction("Index");
+        }
+
     }
 }

@@ -86,7 +86,19 @@ namespace EmpleadosCrud.BusinessLogic.Services
             }
         }
 
+        public tbEmpleados ObtenerEmpleadoPorIdDelete(int id)
+        {
 
+            try
+            {
+                return _empleadosRepository.GetByIdDelete(id);
+            }
+            catch (Exception e)
+            {
+
+                return null;
+            }
+        }
         #endregion
     }
 }
