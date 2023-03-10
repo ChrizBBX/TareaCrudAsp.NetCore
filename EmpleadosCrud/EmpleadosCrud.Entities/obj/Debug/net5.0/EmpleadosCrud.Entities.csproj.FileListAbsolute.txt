@@ -1,0 +1,12 @@
+C:\Users\Chris\source\repos\EmpleadosCrud\EmpleadosCrud.Entities\bin\Debug\net5.0\EmpleadosCrud.Entities.deps.json
+C:\Users\Chris\source\repos\EmpleadosCrud\EmpleadosCrud.Entities\bin\Debug\net5.0\EmpleadosCrud.Entities.dll
+C:\Users\Chris\source\repos\EmpleadosCrud\EmpleadosCrud.Entities\bin\Debug\net5.0\ref\EmpleadosCrud.Entities.dll
+C:\Users\Chris\source\repos\EmpleadosCrud\EmpleadosCrud.Entities\bin\Debug\net5.0\EmpleadosCrud.Entities.pdb
+C:\Users\Chris\source\repos\EmpleadosCrud\EmpleadosCrud.Entities\obj\Debug\net5.0\EmpleadosCrud.Entities.csproj.AssemblyReference.cache
+C:\Users\Chris\source\repos\EmpleadosCrud\EmpleadosCrud.Entities\obj\Debug\net5.0\EmpleadosCrud.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris\source\repos\EmpleadosCrud\EmpleadosCrud.Entities\obj\Debug\net5.0\EmpleadosCrud.Entities.AssemblyInfoInputs.cache
+C:\Users\Chris\source\repos\EmpleadosCrud\EmpleadosCrud.Entities\obj\Debug\net5.0\EmpleadosCrud.Entities.AssemblyInfo.cs
+C:\Users\Chris\source\repos\EmpleadosCrud\EmpleadosCrud.Entities\obj\Debug\net5.0\EmpleadosCrud.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\EmpleadosCrud\EmpleadosCrud.Entities\obj\Debug\net5.0\EmpleadosCrud.Entities.dll
+C:\Users\Chris\source\repos\EmpleadosCrud\EmpleadosCrud.Entities\obj\Debug\net5.0\ref\EmpleadosCrud.Entities.dll
+C:\Users\Chris\source\repos\EmpleadosCrud\EmpleadosCrud.Entities\obj\Debug\net5.0\EmpleadosCrud.Entities.pdb
