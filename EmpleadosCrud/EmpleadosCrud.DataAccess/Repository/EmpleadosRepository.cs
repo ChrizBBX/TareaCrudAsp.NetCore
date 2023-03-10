@@ -36,12 +36,13 @@ namespace EmpleadosCrud.DataAccess.Repository
             return db.tbEmpleados.ToList();
         }
 
-        public tbEmpleados GetById(int id)
-        {
-            using var db = new TareacrudEmpleadoContext();
-            return db.tbEmpleados.FirstOrDefault(e => e.empe_Id == id);
-        }
-        public tbEmpleados GetByIdDelete(int id)
+        //Esta wea hace lo mismo que el find
+        //public tbEmpleados GetById(int id)
+        //{
+        //    using var db = new TareacrudEmpleadoContext();
+        //    return db.tbEmpleados.FirstOrDefault(e => e.empe_Id == id);
+        //}
+        public tbEmpleados Delete(int id)
         {
             using var db = new TareacrudEmpleadoContext();
             var empleado = db.tbEmpleados.FirstOrDefault(e => e.empe_Id == id);

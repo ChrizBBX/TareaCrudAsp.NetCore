@@ -10,3 +10,15 @@ C:\Users\Chris\source\repos\EmpleadosCrud\EmpleadosCrud.Entities\obj\Debug\net5.
 C:\Users\Chris\source\repos\EmpleadosCrud\EmpleadosCrud.Entities\obj\Debug\net5.0\EmpleadosCrud.Entities.dll
 C:\Users\Chris\source\repos\EmpleadosCrud\EmpleadosCrud.Entities\obj\Debug\net5.0\ref\EmpleadosCrud.Entities.dll
 C:\Users\Chris\source\repos\EmpleadosCrud\EmpleadosCrud.Entities\obj\Debug\net5.0\EmpleadosCrud.Entities.pdb
+C:\Users\LAB02\Documents\GitHub\TareaCrudAsp.NetCore\EmpleadosCrud\EmpleadosCrud.Entities\bin\Debug\net5.0\EmpleadosCrud.Entities.deps.json
+C:\Users\LAB02\Documents\GitHub\TareaCrudAsp.NetCore\EmpleadosCrud\EmpleadosCrud.Entities\bin\Debug\net5.0\EmpleadosCrud.Entities.dll
+C:\Users\LAB02\Documents\GitHub\TareaCrudAsp.NetCore\EmpleadosCrud\EmpleadosCrud.Entities\bin\Debug\net5.0\ref\EmpleadosCrud.Entities.dll
+C:\Users\LAB02\Documents\GitHub\TareaCrudAsp.NetCore\EmpleadosCrud\EmpleadosCrud.Entities\bin\Debug\net5.0\EmpleadosCrud.Entities.pdb
+C:\Users\LAB02\Documents\GitHub\TareaCrudAsp.NetCore\EmpleadosCrud\EmpleadosCrud.Entities\obj\Debug\net5.0\EmpleadosCrud.Entities.csproj.AssemblyReference.cache
+C:\Users\LAB02\Documents\GitHub\TareaCrudAsp.NetCore\EmpleadosCrud\EmpleadosCrud.Entities\obj\Debug\net5.0\EmpleadosCrud.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB02\Documents\GitHub\TareaCrudAsp.NetCore\EmpleadosCrud\EmpleadosCrud.Entities\obj\Debug\net5.0\EmpleadosCrud.Entities.AssemblyInfoInputs.cache
+C:\Users\LAB02\Documents\GitHub\TareaCrudAsp.NetCore\EmpleadosCrud\EmpleadosCrud.Entities\obj\Debug\net5.0\EmpleadosCrud.Entities.AssemblyInfo.cs
+C:\Users\LAB02\Documents\GitHub\TareaCrudAsp.NetCore\EmpleadosCrud\EmpleadosCrud.Entities\obj\Debug\net5.0\EmpleadosCrud.Entities.csproj.CoreCompileInputs.cache
+C:\Users\LAB02\Documents\GitHub\TareaCrudAsp.NetCore\EmpleadosCrud\EmpleadosCrud.Entities\obj\Debug\net5.0\EmpleadosCrud.Entities.dll
+C:\Users\LAB02\Documents\GitHub\TareaCrudAsp.NetCore\EmpleadosCrud\EmpleadosCrud.Entities\obj\Debug\net5.0\ref\EmpleadosCrud.Entities.dll
+C:\Users\LAB02\Documents\GitHub\TareaCrudAsp.NetCore\EmpleadosCrud\EmpleadosCrud.Entities\obj\Debug\net5.0\EmpleadosCrud.Entities.pdb

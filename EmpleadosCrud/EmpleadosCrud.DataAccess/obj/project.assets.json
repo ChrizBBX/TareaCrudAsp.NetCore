@@ -2,6 +2,15 @@
   "version": 3,
   "targets": {
     "net5.0": {
+      "Dapper/2.0.123": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Dapper.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/Dapper.dll": {}
+        }
+      },
       "Microsoft.CSharp/4.5.0": {
         "type": "package",
         "compile": {
@@ -1495,6 +1504,24 @@
     }
   },
   "libraries": {
+    "Dapper/2.0.123": {
+      "sha512": "RDFF4rBLLmbpi6pwkY7q/M6UXHRJEOerplDGE5jwEkP/JGJnBauAClYavNKJPW1yOTWRPIyfj4is3EaJxQXILQ==",
+      "type": "package",
+      "path": "dapper/2.0.123",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Dapper.png",
+        "dapper.2.0.123.nupkg.sha512",
+        "dapper.nuspec",
+        "lib/net461/Dapper.dll",
+        "lib/net461/Dapper.xml",
+        "lib/net5.0/Dapper.dll",
+        "lib/net5.0/Dapper.xml",
+        "lib/netstandard2.0/Dapper.dll",
+        "lib/netstandard2.0/Dapper.xml"
+      ]
+    },
     "Microsoft.CSharp/4.5.0": {
       "sha512": "kaj6Wb4qoMuH3HySFJhxwQfe8R/sJsNJnANrvv8WdFPMoNbKY5htfNscv+LHCu5ipz+49m2e+WQXpLXr9XYemQ==",
       "type": "package",
@@ -5712,29 +5739,30 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "Dapper >= 2.0.123",
       "EmpleadosCrud.Entities >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 5.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Chris\\.nuget\\packages\\": {},
+    "C:\\Users\\LAB02\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Chris\\Documents\\GitHub\\TareaCrudAsp.NetCore\\EmpleadosCrud\\EmpleadosCrud.DataAccess\\EmpleadosCrud.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\LAB02\\Documents\\GitHub\\TareaCrudAsp.NetCore\\EmpleadosCrud\\EmpleadosCrud.DataAccess\\EmpleadosCrud.DataAccess.csproj",
       "projectName": "EmpleadosCrud.DataAccess",
-      "projectPath": "C:\\Users\\Chris\\Documents\\GitHub\\TareaCrudAsp.NetCore\\EmpleadosCrud\\EmpleadosCrud.DataAccess\\EmpleadosCrud.DataAccess.csproj",
-      "packagesPath": "C:\\Users\\Chris\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Chris\\Documents\\GitHub\\TareaCrudAsp.NetCore\\EmpleadosCrud\\EmpleadosCrud.DataAccess\\obj\\",
+      "projectPath": "C:\\Users\\LAB02\\Documents\\GitHub\\TareaCrudAsp.NetCore\\EmpleadosCrud\\EmpleadosCrud.DataAccess\\EmpleadosCrud.DataAccess.csproj",
+      "packagesPath": "C:\\Users\\LAB02\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\LAB02\\Documents\\GitHub\\TareaCrudAsp.NetCore\\EmpleadosCrud\\EmpleadosCrud.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Chris\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\LAB02\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -5749,8 +5777,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Chris\\Documents\\GitHub\\TareaCrudAsp.NetCore\\EmpleadosCrud\\EmpleadosCrud.Entities\\EmpleadosCrud.Entities.csproj": {
-              "projectPath": "C:\\Users\\Chris\\Documents\\GitHub\\TareaCrudAsp.NetCore\\EmpleadosCrud\\EmpleadosCrud.Entities\\EmpleadosCrud.Entities.csproj"
+            "C:\\Users\\LAB02\\Documents\\GitHub\\TareaCrudAsp.NetCore\\EmpleadosCrud\\EmpleadosCrud.Entities\\EmpleadosCrud.Entities.csproj": {
+              "projectPath": "C:\\Users\\LAB02\\Documents\\GitHub\\TareaCrudAsp.NetCore\\EmpleadosCrud\\EmpleadosCrud.Entities\\EmpleadosCrud.Entities.csproj"
             }
           }
         }
@@ -5765,6 +5793,10 @@
       "net5.0": {
         "targetAlias": "net5.0",
         "dependencies": {
+          "Dapper": {
+            "target": "Package",
+            "version": "[2.0.123, )"
+          },
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
             "version": "[5.0.0, )"

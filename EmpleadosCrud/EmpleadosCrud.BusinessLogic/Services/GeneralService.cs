@@ -50,7 +50,7 @@ namespace EmpleadosCrud.BusinessLogic.Services
            
             try
             {
-                return _empleadosRepository.GetById(id);
+                return _empleadosRepository.find(id);
             }
             catch (Exception e)
             {
@@ -63,7 +63,7 @@ namespace EmpleadosCrud.BusinessLogic.Services
             error = string.Empty;
             try
             {
-                var empleadoExistente = _empleadosRepository.GetById(empleado.empe_Id);
+                var empleadoExistente = _empleadosRepository.find(empleado.empe_Id);
                 if (empleadoExistente == null)
                 {
                     error = "El empleado que desea editar no existe.";
@@ -91,7 +91,7 @@ namespace EmpleadosCrud.BusinessLogic.Services
 
             try
             {
-                return _empleadosRepository.GetByIdDelete(id);
+                return _empleadosRepository.Delete(id);
             }
             catch (Exception e)
             {

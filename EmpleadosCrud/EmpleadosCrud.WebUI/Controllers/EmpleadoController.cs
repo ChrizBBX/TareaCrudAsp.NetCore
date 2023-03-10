@@ -89,15 +89,7 @@ namespace EmpleadosCrud.WebUI.Controllers
                         {
                             return RedirectToAction("Index");
                         }
-                        else
-                        {
-                            ModelState.AddModelError("", "Ocurrió un error al actualizar el empleado");
-                        }
-                    }
-                    else
-                    {
-                        ModelState.AddModelError("", "No se encontró el empleado especificado");
-                    }
+                    } 
                 }
                 catch (Exception ex)
                 {

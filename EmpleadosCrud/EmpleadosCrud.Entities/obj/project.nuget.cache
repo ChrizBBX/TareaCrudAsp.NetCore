@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u4LPwqfY/wLnsJasbNBCuJzL7ZQPnJ6c/xyXJYOrhQ+E6LL8bGO03FJVcRBb5ySmlY12Svxb7pghHTrRDgOdQQ==",
+  "dgSpecHash": "kQw7D1h1KRS3n25fNCcQP+vBmUKRMlizhHB4ZuCOe6Btwhg6uu1ypXeBDsDfWtCpbdZopEA8qHfhWczPXu7B7w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Chris\\Documents\\GitHub\\TareaCrudAsp.NetCore\\EmpleadosCrud\\EmpleadosCrud.Entities\\EmpleadosCrud.Entities.csproj",
+  "projectFilePath": "C:\\Users\\LAB02\\Documents\\GitHub\\TareaCrudAsp.NetCore\\EmpleadosCrud\\EmpleadosCrud.Entities\\EmpleadosCrud.Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
